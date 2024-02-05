@@ -1,0 +1,13 @@
+pluginManagement {
+    repositories {
+        mavenCentral()
+    }
+}
+
+rootProject.name = "map_key_deserialize"
+
+dependencyResolutionManagement {
+    repositories {
+        mavenCentral()
+    }
+}
